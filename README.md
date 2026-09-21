@@ -37,8 +37,8 @@ peptide-app/
 │   ├── services/      auth middleware + recommendation engine
 │   └── db/            Postgres schema
 └── frontend/         React (Vite) app
-    └── src/components/  Login, Signup, Dashboard, SubstanceLog,
-                          DailyCheckin, Trends, Questionnaire
+    └── src/components/  Dashboard, SubstanceLog, DailyCheckin,
+                          Trends, Questionnaire
 ```
 
 ## The personal tracker, specifically
